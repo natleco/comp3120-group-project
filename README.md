@@ -3,5 +3,4 @@ Repository for COMP3120 Group Project.
 
 Members:
 John Hemans - 45234639
-
-Testing GitKraken // Josh :)
+Nathan Lecompte - 45423725
